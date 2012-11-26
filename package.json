@@ -1,0 +1,21 @@
+{
+  "name": "s3-log-parser",
+  "description": "Parse s3 logs",
+  "author": {
+    "name": "Greg Allan",
+    "email": "gregory.j.allan@gmail.com"
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "s3",
+    "log",
+    "parse"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ifit/s3-log-parser.git"
+  },
+  "homepage": "https://github.com/ifit/s3-log-parser"
+}
+
