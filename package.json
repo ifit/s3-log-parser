@@ -5,7 +5,7 @@
     "name": "Greg Allan",
     "email": "gregory.j.allan@gmail.com"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "keywords": [
     "s3",
